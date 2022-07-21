@@ -4,7 +4,7 @@
 - 👨‍🎓 Atualmente trabalhando no CliniSYS há cerca de 10 meses no desenvolvimento e manutenção dos sistemas de gestão de clínicas de reprodução humana no qual já somo mais de 1.000 commits!
 - 🧑‍💻 Também atuo como desenvolvedor web free-lancer, tendo desenvolvido vários sites e alguns sistemas de gestão, no momento estou trabalhando no desenvolvimento num sistema de gestão completo para uma loja de informática.
 - 🎮 A minha paixão por jogos e programação sempre caminharam juntos, desde que tinha cerca de 12 anos já programava meus próprios servidores de SA-MP, Minecraft, etc...
-
+<div style="display: flex; flex-direction: row;">
 <div align="center">
   <a href="https://github.com/JoaoAlexandreDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoalexandredev&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
@@ -27,4 +27,5 @@
   <a href = "mailto:joaoferrao77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaoalexandrelucenaferrao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
+</div>
 </div>
