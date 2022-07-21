@@ -3,7 +3,7 @@
 
 - 👨‍🎓 Trabalho no CliniSYS desde outubro de 2021 no desenvolvimento e manutenção dos sistemas de gestão de clínicas de reprodução humana no qual já somo mais de 1.000 commits!
 - 🧑‍💻 Também atuo como desenvolvedor web free-lancer, tendo desenvolvido vários sites e alguns sistemas de gestão, no momento estou trabalhando no desenvolvimento num sistema de gestão completo para uma loja de informática.
-- 🎮 A minha paixão por jogos e programação sempre caminharam juntos, desde que tinha cerca de 12 anos já programava meus próprios servidores de SA-MP, Minecraft, etc...
+- 🎮 A minha paixão por jogos e programação sempre caminharam juntos e desde que tinha cerca de 12 anos já programava meus próprios servidores de SA-MP, Minecraft, etc...
 <div style="display: flex; flex-direction: row;">
 <div align="center">
   <a href="https://github.com/JoaoAlexandreDev">
