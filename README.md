@@ -1,9 +1,10 @@
 
 ### Olá, é um prazer ter você aqui!
 
-- 👨‍🎓 Trabalho no CliniSYS desde outubro de 2021 no desenvolvimento e manutenção dos sistemas de gestão de clínicas de reprodução humana no qual já somo mais de 1.500 commits!
-- 🧑‍💻 Também atuo como desenvolvedor web free-lancer, tendo desenvolvido vários sites e alguns sistemas de gestão sendo o principal, um sistema de gestão de pedidos para uma distribuidora.
-- 🎮 A minha paixão por jogos e programação sempre caminharam juntos e desde que tinha cerca de 12 anos já programava meus próprios servidores de SA-MP, Minecraft, etc...
+- 👨‍💻 Analista Desenvolvedor Full Stack especializado em PHP e Vue.js com experiência em sustentação e desenvolvimento de sistemas para clínicas de reprodução humana, ERP e gestão de risco no agronegócio.
+- 💼 Stack: PHP, CodeIgniter, Laravel, JavaScript, jQuery, Vue.js, Bootstrap, MySQL, SQL Server
+- 🔧 Ferramentas: Docker, Jenkins, Git, GitHub, Bitbucket, Azure DevOps, AWS
+- 📈 Gestão de Projetos: Monday, Jira, Trello, DevOps
 <div style="display: flex; flex-direction: row;">
 <div align="center">
   <a href="https://github.com/JoaoAlexandreDev">
